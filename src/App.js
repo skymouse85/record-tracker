@@ -1,11 +1,11 @@
-import record from './record.svg'
 import './App.css';
+import Record from './app/assets/record.svg'
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={record} className="App-logo" alt="logo" />
+        <img src={Record} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
